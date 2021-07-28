@@ -4,8 +4,8 @@ Demo of making calls to the BuiltWith List API - this will spit out a list of al
 # Example
 
 * Install nodejs
-* Get main.js and package.json
-* Run the following command
+* Download main.js and package.json into a new folder
+* Run the following command in the folder where you placed the files above
 ```
   npm install
 ```
